@@ -1,0 +1,292 @@
+2023-07-02 00:33:23,689 [main] INFO Swag Labs Website Test - URL is opened
+2023-07-02 00:33:25,840 [main] INFO Swag Labs Website Test - Entered username
+2023-07-02 00:33:27,924 [main] INFO Swag Labs Website Test - Entered password
+2023-07-02 00:33:32,671 [main] INFO Swag Labs Website Test - Submit Button Clicked
+2023-07-02 00:33:32,700 [main] INFO Swag Labs Website Test - Login test passed
+2023-07-02 00:33:39,318 [main] INFO Swag Labs Website Test - user name provided
+2023-07-02 00:33:42,475 [main] INFO Swag Labs Website Test - password provided
+2023-07-02 00:33:50,812 [main] INFO Swag Labs Website Test - user name provided
+2023-07-02 00:33:53,996 [main] INFO Swag Labs Website Test - password provided
+2023-07-02 00:33:58,890 [main] INFO Swag Labs Website Test - Login test passed
+2023-07-02 00:34:04,500 [main] INFO Swag Labs Website Test - user name provided
+2023-07-02 00:34:07,662 [main] INFO Swag Labs Website Test - password provided
+2023-07-02 00:34:15,970 [main] INFO Swag Labs Website Test - user name provided
+2023-07-02 00:34:19,117 [main] INFO Swag Labs Website Test - password provided
+2023-07-02 00:34:22,970 [main] INFO Swag Labs Website Test - Login test passed
+2023-07-02 00:34:28,160 [main] INFO Swag Labs Website Test - user name provided
+2023-07-02 00:34:31,307 [main] INFO Swag Labs Website Test - password provided
+2023-07-02 00:35:13,263 [main] INFO Swag Labs Website Test - Login test passed
+2023-07-02 00:35:18,510 [main] INFO Swag Labs Website Test - user name provided
+2023-07-02 00:35:21,679 [main] INFO Swag Labs Website Test - password provided
+2023-07-02 00:35:29,999 [main] INFO Swag Labs Website Test - user name provided
+2023-07-02 00:35:33,145 [main] INFO Swag Labs Website Test - password provided
+2023-07-02 00:35:41,408 [main] INFO Swag Labs Website Test - user name provided
+2023-07-02 00:35:44,574 [main] INFO Swag Labs Website Test - password provided
+2023-07-02 00:35:49,687 [main] INFO Swag Labs Website Test - URL is opened
+2023-07-02 00:35:51,800 [main] INFO Swag Labs Website Test - Entered username
+2023-07-02 00:35:53,892 [main] INFO Swag Labs Website Test - Entered password
+2023-07-02 00:35:58,113 [main] INFO Swag Labs Website Test - Submit Button Clicked
+2023-07-02 00:35:58,113 [main] INFO Swag Labs Website Test - Entered in Homepage
+2023-07-02 00:35:58,175 [main] INFO Swag Labs Website Test - Count product test passed
+2023-07-02 00:36:00,230 [main] INFO Swag Labs Website Test - URL is opened
+2023-07-02 00:36:02,368 [main] INFO Swag Labs Website Test - Entered username
+2023-07-02 00:36:04,441 [main] INFO Swag Labs Website Test - Entered password
+2023-07-02 00:36:08,528 [main] INFO Swag Labs Website Test - Submit Button Clicked
+2023-07-02 00:36:08,528 [main] INFO Swag Labs Website Test - Entered in Homepage
+2023-07-02 00:36:09,084 [main] INFO Swag Labs Website Test - Item 1 has been clicked
+2023-07-02 00:36:09,085 [main] INFO Swag Labs Website Test - Entered in Details Page
+2023-07-02 00:36:11,308 [main] INFO Swag Labs Website Test - Back in Home Page
+2023-07-02 00:36:13,526 [main] INFO Swag Labs Website Test - Item 2 has been clicked
+2023-07-02 00:36:13,528 [main] INFO Swag Labs Website Test - Entered in Details Page
+2023-07-02 00:36:15,718 [main] INFO Swag Labs Website Test - Back in Home Page
+2023-07-02 00:36:18,013 [main] INFO Swag Labs Website Test - Item 3 has been clicked
+2023-07-02 00:36:18,013 [main] INFO Swag Labs Website Test - Entered in Details Page
+2023-07-02 00:36:20,231 [main] INFO Swag Labs Website Test - Back in Home Page
+2023-07-02 00:36:22,464 [main] INFO Swag Labs Website Test - Item 4 has been clicked
+2023-07-02 00:36:22,464 [main] INFO Swag Labs Website Test - Entered in Details Page
+2023-07-02 00:36:24,685 [main] INFO Swag Labs Website Test - Back in Home Page
+2023-07-02 00:36:26,911 [main] INFO Swag Labs Website Test - Item 5 has been clicked
+2023-07-02 00:36:26,912 [main] INFO Swag Labs Website Test - Entered in Details Page
+2023-07-02 00:36:29,127 [main] INFO Swag Labs Website Test - Back in Home Page
+2023-07-02 00:36:31,371 [main] INFO Swag Labs Website Test - Item 6 has been clicked
+2023-07-02 00:36:31,372 [main] INFO Swag Labs Website Test - Entered in Details Page
+2023-07-02 00:36:33,566 [main] INFO Swag Labs Website Test - Back in Home Page
+2023-07-02 00:36:35,577 [main] INFO Swag Labs Website Test - Product title test passed
+2023-07-02 00:36:37,617 [main] INFO Swag Labs Website Test - URL is opened
+2023-07-02 00:36:39,745 [main] INFO Swag Labs Website Test - Entered username
+2023-07-02 00:36:41,816 [main] INFO Swag Labs Website Test - Entered password
+2023-07-02 00:36:45,704 [main] INFO Swag Labs Website Test - Submit Button Clicked
+2023-07-02 00:36:45,704 [main] INFO Swag Labs Website Test - Entered in Homepage
+2023-07-02 00:36:45,756 [main] INFO Swag Labs Website Test - Cart Logo Visibility test passed
+2023-07-02 00:36:47,566 [main] INFO Swag Labs Website Test - URL is opened
+2023-07-02 00:36:49,672 [main] INFO Swag Labs Website Test - Entered username
+2023-07-02 00:36:51,763 [main] INFO Swag Labs Website Test - Entered password
+2023-07-02 00:36:55,582 [main] INFO Swag Labs Website Test - Submit Button Clicked
+2023-07-02 00:36:55,582 [main] INFO Swag Labs Website Test - Entered in Homepage
+2023-07-02 00:36:58,125 [main] INFO Swag Labs Website Test - Click Cart Logo test passed
+2023-07-02 00:37:00,095 [main] INFO Swag Labs Website Test - URL is opened
+2023-07-02 00:37:02,199 [main] INFO Swag Labs Website Test - Entered username
+2023-07-02 00:37:04,318 [main] INFO Swag Labs Website Test - Entered password
+2023-07-02 00:37:08,096 [main] INFO Swag Labs Website Test - Submit Button Clicked
+2023-07-02 00:37:08,096 [main] INFO Swag Labs Website Test - Entered in Homepage
+2023-07-02 00:37:08,161 [main] INFO Swag Labs Website Test - Add To Cart Button of item 1 has been clicked
+2023-07-02 00:37:10,247 [main] INFO Swag Labs Website Test - Add To Cart Button of item 2 has been clicked
+2023-07-02 00:37:12,333 [main] INFO Swag Labs Website Test - Add To Cart Button of item 3 has been clicked
+2023-07-02 00:37:14,417 [main] INFO Swag Labs Website Test - Add To Cart Button of item 4 has been clicked
+2023-07-02 00:37:16,507 [main] INFO Swag Labs Website Test - Add To Cart Button of item 5 has been clicked
+2023-07-02 00:37:18,553 [main] INFO Swag Labs Website Test - Add To Cart Button of item 6 has been clicked
+2023-07-02 00:37:20,623 [main] INFO Swag Labs Website Test - Add cart in addtocartpage from homepage test passed
+2023-07-02 00:37:22,447 [main] INFO Swag Labs Website Test - URL is opened
+2023-07-02 00:37:24,582 [main] INFO Swag Labs Website Test - Entered username
+2023-07-02 00:37:26,648 [main] INFO Swag Labs Website Test - Entered password
+2023-07-02 00:37:30,645 [main] INFO Swag Labs Website Test - Submit Button Clicked
+2023-07-02 00:37:30,645 [main] INFO Swag Labs Website Test - Entered in Homepage
+2023-07-02 00:37:32,713 [main] INFO Swag Labs Website Test - Menu Button Clicked
+2023-07-02 00:37:34,892 [main] INFO Swag Labs Website Test - All Items Link Clicked
+2023-07-02 00:37:34,907 [main] INFO Swag Labs Website Test - Click All Items Link of Menu Btn test passed
+2023-07-02 00:37:36,744 [main] INFO Swag Labs Website Test - URL is opened
+2023-07-02 00:37:38,852 [main] INFO Swag Labs Website Test - Entered username
+2023-07-02 00:37:40,944 [main] INFO Swag Labs Website Test - Entered password
+2023-07-02 00:37:44,940 [main] INFO Swag Labs Website Test - Submit Button Clicked
+2023-07-02 00:37:44,941 [main] INFO Swag Labs Website Test - Entered in Homepage
+2023-07-02 00:37:51,594 [main] INFO Swag Labs Website Test - Click About Link of Menu Btn test passed
+2023-07-02 00:37:53,926 [main] INFO Swag Labs Website Test - URL is opened
+2023-07-02 00:37:56,048 [main] INFO Swag Labs Website Test - Entered username
+2023-07-02 00:37:58,128 [main] INFO Swag Labs Website Test - Entered password
+2023-07-02 00:38:01,848 [main] INFO Swag Labs Website Test - Submit Button Clicked
+2023-07-02 00:38:01,850 [main] INFO Swag Labs Website Test - Entered in Homepage
+2023-07-02 00:38:06,424 [main] INFO Swag Labs Website Test - Click Logout Link of Menu Btn test passed
+2023-07-02 00:38:08,327 [main] INFO Swag Labs Website Test - URL is opened
+2023-07-02 00:38:10,437 [main] INFO Swag Labs Website Test - Entered username
+2023-07-02 00:38:12,516 [main] INFO Swag Labs Website Test - Entered password
+2023-07-02 00:38:16,326 [main] INFO Swag Labs Website Test - Submit Button Clicked
+2023-07-02 00:38:16,326 [main] INFO Swag Labs Website Test - Entered in Homepage
+2023-07-02 00:38:20,998 [main] INFO Swag Labs Website Test - Click continue shopping button test passed
+2023-07-02 00:38:22,778 [main] INFO Swag Labs Website Test - URL is opened
+2023-07-02 00:38:24,891 [main] INFO Swag Labs Website Test - Entered username
+2023-07-02 00:38:26,949 [main] INFO Swag Labs Website Test - Entered password
+2023-07-02 00:38:30,945 [main] INFO Swag Labs Website Test - Submit Button Clicked
+2023-07-02 00:38:30,945 [main] INFO Swag Labs Website Test - Entered in Homepage
+2023-07-02 00:38:35,804 [main] INFO Swag Labs Website Test - Click checkout button test passed
+2023-07-02 00:38:37,589 [main] INFO Swag Labs Website Test - URL is opened
+2023-07-02 00:38:39,698 [main] INFO Swag Labs Website Test - Entered username
+2023-07-02 00:38:41,778 [main] INFO Swag Labs Website Test - Entered password
+2023-07-02 00:38:45,964 [main] INFO Swag Labs Website Test - Submit Button Clicked
+2023-07-02 00:38:45,964 [main] INFO Swag Labs Website Test - Entered in Homepage
+2023-07-02 00:38:46,381 [main] INFO Swag Labs Website Test - Item 1 has been clicked
+2023-07-02 00:38:46,383 [main] INFO Swag Labs Website Test - Entered in Details Page
+2023-07-02 00:38:48,705 [main] INFO Swag Labs Website Test - Entered in Home Page
+2023-07-02 00:38:50,881 [main] INFO Swag Labs Website Test - Item 2 has been clicked
+2023-07-02 00:38:50,881 [main] INFO Swag Labs Website Test - Entered in Details Page
+2023-07-02 00:38:53,010 [main] INFO Swag Labs Website Test - Entered in Home Page
+2023-07-02 00:38:55,531 [main] INFO Swag Labs Website Test - Item 3 has been clicked
+2023-07-02 00:38:55,531 [main] INFO Swag Labs Website Test - Entered in Details Page
+2023-07-02 00:38:57,715 [main] INFO Swag Labs Website Test - Entered in Home Page
+2023-07-02 00:38:59,926 [main] INFO Swag Labs Website Test - Item 4 has been clicked
+2023-07-02 00:38:59,927 [main] INFO Swag Labs Website Test - Entered in Details Page
+2023-07-02 00:39:02,190 [main] INFO Swag Labs Website Test - Entered in Home Page
+2023-07-02 00:39:04,427 [main] INFO Swag Labs Website Test - Item 5 has been clicked
+2023-07-02 00:39:04,428 [main] INFO Swag Labs Website Test - Entered in Details Page
+2023-07-02 00:39:06,694 [main] INFO Swag Labs Website Test - Entered in Home Page
+2023-07-02 00:39:08,929 [main] INFO Swag Labs Website Test - Item 6 has been clicked
+2023-07-02 00:39:08,930 [main] INFO Swag Labs Website Test - Entered in Details Page
+2023-07-02 00:39:11,240 [main] INFO Swag Labs Website Test - Entered in Home Page
+2023-07-02 00:39:17,542 [main] INFO Swag Labs Website Test - Entered in AddToCartPage
+2023-07-02 00:39:19,628 [main] INFO Swag Labs Website Test - Add cart in addtocartpage from detailspage test passed
+2023-07-02 00:39:21,445 [main] INFO Swag Labs Website Test - URL is opened
+2023-07-02 00:39:23,550 [main] INFO Swag Labs Website Test - Entered username
+2023-07-02 00:39:25,623 [main] INFO Swag Labs Website Test - Entered password
+2023-07-02 00:39:29,624 [main] INFO Swag Labs Website Test - Submit Button Clicked
+2023-07-02 00:39:29,624 [main] INFO Swag Labs Website Test - Entered in Homepage
+2023-07-02 00:39:29,681 [main] INFO Swag Labs Website Test - Add To Cart Button of item 1 has been clicked
+2023-07-02 00:39:31,763 [main] INFO Swag Labs Website Test - Add To Cart Button of item 2 has been clicked
+2023-07-02 00:39:33,851 [main] INFO Swag Labs Website Test - Add To Cart Button of item 3 has been clicked
+2023-07-02 00:39:35,892 [main] INFO Swag Labs Website Test - Add To Cart Button of item 4 has been clicked
+2023-07-02 00:39:37,989 [main] INFO Swag Labs Website Test - Add To Cart Button of item 5 has been clicked
+2023-07-02 00:39:40,078 [main] INFO Swag Labs Website Test - Add To Cart Button of item 6 has been clicked
+2023-07-02 00:39:44,665 [main] INFO Swag Labs Website Test - Cart Logo Btn Clicked of home Page
+2023-07-02 00:39:47,174 [main] INFO Swag Labs Website Test - Entered Checkout info giving page
+2023-07-02 00:39:49,297 [main] INFO Swag Labs Website Test - Entered firstname
+2023-07-02 00:39:51,430 [main] INFO Swag Labs Website Test - Entered lastname
+2023-07-02 00:39:53,554 [main] INFO Swag Labs Website Test - Entered postal code
+2023-07-02 00:39:56,717 [main] INFO Swag Labs Website Test - Entered Checkout Details Page
+2023-07-02 00:40:00,925 [main] INFO Swag Labs Website Test - URL is opened
+2023-07-02 00:40:03,034 [main] INFO Swag Labs Website Test - Entered username
+2023-07-02 00:40:05,106 [main] INFO Swag Labs Website Test - Entered password
+2023-07-02 00:40:09,775 [main] INFO Swag Labs Website Test - Submit Button Clicked
+2023-07-02 00:40:09,775 [main] INFO Swag Labs Website Test - Entered in Homepage
+2023-07-02 00:40:09,858 [main] INFO Swag Labs Website Test - Add To Cart Button of item 1 has been clicked
+2023-07-02 00:40:11,943 [main] INFO Swag Labs Website Test - Add To Cart Button of item 2 has been clicked
+2023-07-02 00:40:13,994 [main] INFO Swag Labs Website Test - Add To Cart Button of item 3 has been clicked
+2023-07-02 00:40:16,073 [main] INFO Swag Labs Website Test - Add To Cart Button of item 4 has been clicked
+2023-07-02 00:40:18,116 [main] INFO Swag Labs Website Test - Add To Cart Button of item 5 has been clicked
+2023-07-02 00:40:20,187 [main] INFO Swag Labs Website Test - Add To Cart Button of item 6 has been clicked
+2023-07-02 00:40:24,638 [main] INFO Swag Labs Website Test - Cart Logo Btn Clicked of home Page
+2023-07-02 00:40:27,098 [main] INFO Swag Labs Website Test - Entered Checkout info giving page
+2023-07-02 00:40:29,270 [main] INFO Swag Labs Website Test - Entered Add to cart Page
+2023-07-02 00:40:31,291 [main] INFO Swag Labs Website Test - Cancel Checkout info test passed
+2023-07-02 00:40:33,321 [main] INFO Swag Labs Website Test - URL is opened
+2023-07-02 00:40:35,428 [main] INFO Swag Labs Website Test - Entered username
+2023-07-02 00:40:37,537 [main] INFO Swag Labs Website Test - Entered password
+2023-07-02 00:40:41,532 [main] INFO Swag Labs Website Test - Submit Button Clicked
+2023-07-02 00:40:41,533 [main] INFO Swag Labs Website Test - Entered in Homepage
+2023-07-02 00:40:41,588 [main] INFO Swag Labs Website Test - Add To Cart Button of item 1 has been clicked
+2023-07-02 00:40:43,683 [main] INFO Swag Labs Website Test - Add To Cart Button of item 2 has been clicked
+2023-07-02 00:40:45,755 [main] INFO Swag Labs Website Test - Add To Cart Button of item 3 has been clicked
+2023-07-02 00:40:47,833 [main] INFO Swag Labs Website Test - Add To Cart Button of item 4 has been clicked
+2023-07-02 00:40:49,872 [main] INFO Swag Labs Website Test - Add To Cart Button of item 5 has been clicked
+2023-07-02 00:40:51,954 [main] INFO Swag Labs Website Test - Add To Cart Button of item 6 has been clicked
+2023-07-02 00:40:56,988 [main] INFO Swag Labs Website Test - Cart Logo Btn Clicked of home Page
+2023-07-02 00:41:00,174 [main] INFO Swag Labs Website Test - Entered Checkout info giving page
+2023-07-02 00:41:02,284 [main] INFO Swag Labs Website Test - Entered firstname
+2023-07-02 00:41:04,407 [main] INFO Swag Labs Website Test - Entered lastname
+2023-07-02 00:41:06,534 [main] INFO Swag Labs Website Test - Entered postal code
+2023-07-02 00:41:08,972 [main] INFO Swag Labs Website Test - Entered Checkout Details Page
+2023-07-02 00:41:13,824 [main] INFO Swag Labs Website Test - Entered Checkout and payment finish page
+2023-07-02 00:41:15,906 [main] INFO Swag Labs Website Test - Checkout finish test passed
+2023-07-02 00:41:17,843 [main] INFO Swag Labs Website Test - URL is opened
+2023-07-02 00:41:19,982 [main] INFO Swag Labs Website Test - Entered username
+2023-07-02 00:41:22,047 [main] INFO Swag Labs Website Test - Entered password
+2023-07-02 00:41:25,874 [main] INFO Swag Labs Website Test - Submit Button Clicked
+2023-07-02 00:41:25,874 [main] INFO Swag Labs Website Test - Entered in Homepage
+2023-07-02 00:41:25,928 [main] INFO Swag Labs Website Test - Add To Cart Button of item 1 has been clicked
+2023-07-02 00:41:28,012 [main] INFO Swag Labs Website Test - Add To Cart Button of item 2 has been clicked
+2023-07-02 00:41:30,112 [main] INFO Swag Labs Website Test - Add To Cart Button of item 3 has been clicked
+2023-07-02 00:41:32,152 [main] INFO Swag Labs Website Test - Add To Cart Button of item 4 has been clicked
+2023-07-02 00:41:34,207 [main] INFO Swag Labs Website Test - Add To Cart Button of item 5 has been clicked
+2023-07-02 00:41:36,248 [main] INFO Swag Labs Website Test - Add To Cart Button of item 6 has been clicked
+2023-07-02 00:41:40,545 [main] INFO Swag Labs Website Test - Cart Logo Btn Clicked of home Page
+2023-07-02 00:41:42,858 [main] INFO Swag Labs Website Test - Entered Checkout info giving page
+2023-07-02 00:41:44,990 [main] INFO Swag Labs Website Test - Entered firstname
+2023-07-02 00:41:47,133 [main] INFO Swag Labs Website Test - Entered lastname
+2023-07-02 00:41:49,260 [main] INFO Swag Labs Website Test - Entered postal code
+2023-07-02 00:41:51,706 [main] INFO Swag Labs Website Test - Entered Checkout Details Page
+2023-07-02 00:41:55,854 [main] INFO Swag Labs Website Test - Entered in home page
+2023-07-02 00:41:57,880 [main] INFO Swag Labs Website Test - Checkout cancel test passed
+2023-07-02 00:41:59,777 [main] INFO Swag Labs Website Test - URL is opened
+2023-07-02 00:42:01,896 [main] INFO Swag Labs Website Test - Entered username
+2023-07-02 00:42:03,999 [main] INFO Swag Labs Website Test - Entered password
+2023-07-02 00:42:08,061 [main] INFO Swag Labs Website Test - Submit Button Clicked
+2023-07-02 00:42:08,062 [main] INFO Swag Labs Website Test - Entered in Homepage
+2023-07-02 00:42:08,147 [main] INFO Swag Labs Website Test - Add To Cart Button of item 1 has been clicked
+2023-07-02 00:42:10,241 [main] INFO Swag Labs Website Test - Add To Cart Button of item 2 has been clicked
+2023-07-02 00:42:12,332 [main] INFO Swag Labs Website Test - Add To Cart Button of item 3 has been clicked
+2023-07-02 00:42:14,414 [main] INFO Swag Labs Website Test - Add To Cart Button of item 4 has been clicked
+2023-07-02 00:42:16,506 [main] INFO Swag Labs Website Test - Add To Cart Button of item 5 has been clicked
+2023-07-02 00:42:18,547 [main] INFO Swag Labs Website Test - Add To Cart Button of item 6 has been clicked
+2023-07-02 00:42:23,969 [main] INFO Swag Labs Website Test - Cart Logo Btn Clicked of home Page
+2023-07-02 00:42:26,392 [main] INFO Swag Labs Website Test - Entered Checkout info giving page
+2023-07-02 00:42:28,527 [main] INFO Swag Labs Website Test - Entered firstname
+2023-07-02 00:42:30,685 [main] INFO Swag Labs Website Test - Entered lastname
+2023-07-02 00:42:32,819 [main] INFO Swag Labs Website Test - Entered postal code
+2023-07-02 00:42:35,306 [main] INFO Swag Labs Website Test - Entered Checkout Details Page
+2023-07-02 00:42:39,937 [main] INFO Swag Labs Website Test - Entered Checkout and payment finish page
+2023-07-02 00:42:50,663 [main] INFO Swag Labs Website Test - End To End test passed
+2023-07-02 00:42:52,633 [main] INFO Swag Labs Website Test - URL is opened
+2023-07-02 00:42:54,729 [main] INFO Swag Labs Website Test - Entered username
+2023-07-02 00:42:56,888 [main] INFO Swag Labs Website Test - Entered password
+2023-07-02 00:43:01,575 [main] INFO Swag Labs Website Test - Submit Button Clicked
+2023-07-02 00:43:01,575 [main] INFO Swag Labs Website Test - Entered in Homepage
+2023-07-02 00:43:01,641 [main] INFO Swag Labs Website Test - Add To Cart Button of item 1 has been clicked
+2023-07-02 00:43:03,726 [main] INFO Swag Labs Website Test - Add To Cart Button of item 2 has been clicked
+2023-07-02 00:43:05,824 [main] INFO Swag Labs Website Test - Add To Cart Button of item 3 has been clicked
+2023-07-02 00:43:07,868 [main] INFO Swag Labs Website Test - Add To Cart Button of item 4 has been clicked
+2023-07-02 00:43:09,951 [main] INFO Swag Labs Website Test - Add To Cart Button of item 5 has been clicked
+2023-07-02 00:43:12,043 [main] INFO Swag Labs Website Test - Add To Cart Button of item 6 has been clicked
+2023-07-02 00:43:16,465 [main] INFO Swag Labs Website Test - Cart Logo Btn Clicked of home Page
+2023-07-02 00:43:18,841 [main] INFO Swag Labs Website Test - Entered Checkout info giving page
+2023-07-02 00:43:20,987 [main] INFO Swag Labs Website Test - Entered firstname
+2023-07-02 00:43:23,126 [main] INFO Swag Labs Website Test - Entered lastname
+2023-07-02 00:43:25,271 [main] INFO Swag Labs Website Test - Entered postal code
+2023-07-02 00:43:29,962 [main] INFO Swag Labs Website Test - Checkout info test passed
+2023-07-02 00:43:31,721 [main] INFO Swag Labs Website Test - URL is opened
+2023-07-02 00:43:33,833 [main] INFO Swag Labs Website Test - Entered username
+2023-07-02 00:43:35,894 [main] INFO Swag Labs Website Test - Entered password
+2023-07-02 00:43:40,131 [main] INFO Swag Labs Website Test - Submit Button Clicked
+2023-07-02 00:43:40,132 [main] INFO Swag Labs Website Test - Entered in Homepage
+2023-07-02 00:43:40,187 [main] INFO Swag Labs Website Test - Add To Cart Button of item 1 has been clicked
+2023-07-02 00:43:42,278 [main] INFO Swag Labs Website Test - Add To Cart Button of item 2 has been clicked
+2023-07-02 00:43:44,360 [main] INFO Swag Labs Website Test - Add To Cart Button of item 3 has been clicked
+2023-07-02 00:43:46,418 [main] INFO Swag Labs Website Test - Add To Cart Button of item 4 has been clicked
+2023-07-02 00:43:48,506 [main] INFO Swag Labs Website Test - Add To Cart Button of item 5 has been clicked
+2023-07-02 00:43:50,554 [main] INFO Swag Labs Website Test - Add To Cart Button of item 6 has been clicked
+2023-07-02 00:43:56,059 [main] INFO Swag Labs Website Test - Cart Logo Btn Clicked of home Page
+2023-07-02 00:43:58,498 [main] INFO Swag Labs Website Test - Entered Checkout info giving page
+2023-07-02 00:44:00,583 [main] INFO Swag Labs Website Test - Entered firstname
+2023-07-02 00:44:02,718 [main] INFO Swag Labs Website Test - Entered lastname
+2023-07-02 00:44:04,877 [main] INFO Swag Labs Website Test - Entered postal code
+2023-07-02 00:44:09,576 [main] INFO Swag Labs Website Test - Checkout info test passed
+2023-07-02 00:44:12,056 [main] INFO Swag Labs Website Test - URL is opened
+2023-07-02 00:44:14,160 [main] INFO Swag Labs Website Test - Entered username
+2023-07-02 00:44:16,227 [main] INFO Swag Labs Website Test - Entered password
+2023-07-02 00:44:20,286 [main] INFO Swag Labs Website Test - Submit Button Clicked
+2023-07-02 00:44:20,288 [main] INFO Swag Labs Website Test - Entered in Homepage
+2023-07-02 00:44:20,349 [main] INFO Swag Labs Website Test - Add To Cart Button of item 1 has been clicked
+2023-07-02 00:44:22,444 [main] INFO Swag Labs Website Test - Add To Cart Button of item 2 has been clicked
+2023-07-02 00:44:24,518 [main] INFO Swag Labs Website Test - Add To Cart Button of item 3 has been clicked
+2023-07-02 00:44:26,602 [main] INFO Swag Labs Website Test - Add To Cart Button of item 4 has been clicked
+2023-07-02 00:44:28,690 [main] INFO Swag Labs Website Test - Add To Cart Button of item 5 has been clicked
+2023-07-02 00:44:30,734 [main] INFO Swag Labs Website Test - Add To Cart Button of item 6 has been clicked
+2023-07-02 00:44:35,206 [main] INFO Swag Labs Website Test - Cart Logo Btn Clicked of home Page
+2023-07-02 00:44:37,554 [main] INFO Swag Labs Website Test - Entered Checkout info giving page
+2023-07-02 00:44:39,664 [main] INFO Swag Labs Website Test - Entered firstname
+2023-07-02 00:44:41,827 [main] INFO Swag Labs Website Test - Entered lastname
+2023-07-02 00:44:43,973 [main] INFO Swag Labs Website Test - Entered postal code
+2023-07-02 00:44:48,430 [main] INFO Swag Labs Website Test - Checkout info test passed
+2023-07-02 00:44:50,427 [main] INFO Swag Labs Website Test - URL is opened
+2023-07-02 00:44:52,562 [main] INFO Swag Labs Website Test - Entered username
+2023-07-02 00:44:54,650 [main] INFO Swag Labs Website Test - Entered password
+2023-07-02 00:44:59,139 [main] INFO Swag Labs Website Test - Submit Button Clicked
+2023-07-02 00:44:59,141 [main] INFO Swag Labs Website Test - Entered in Homepage
+2023-07-02 00:44:59,196 [main] INFO Swag Labs Website Test - Add To Cart Button of item 1 has been clicked
+2023-07-02 00:45:01,285 [main] INFO Swag Labs Website Test - Add To Cart Button of item 2 has been clicked
+2023-07-02 00:45:03,356 [main] INFO Swag Labs Website Test - Add To Cart Button of item 3 has been clicked
+2023-07-02 00:45:05,390 [main] INFO Swag Labs Website Test - Add To Cart Button of item 4 has been clicked
+2023-07-02 00:45:07,455 [main] INFO Swag Labs Website Test - Add To Cart Button of item 5 has been clicked
+2023-07-02 00:45:09,543 [main] INFO Swag Labs Website Test - Add To Cart Button of item 6 has been clicked
+2023-07-02 00:45:13,843 [main] INFO Swag Labs Website Test - Cart Logo Btn Clicked of home Page
+2023-07-02 00:45:16,066 [main] INFO Swag Labs Website Test - Entered Checkout info giving page
+2023-07-02 00:45:18,163 [main] INFO Swag Labs Website Test - Entered firstname
+2023-07-02 00:45:20,305 [main] INFO Swag Labs Website Test - Entered lastname
+2023-07-02 00:45:22,428 [main] INFO Swag Labs Website Test - Entered postal code
+2023-07-02 00:45:26,802 [main] INFO Swag Labs Website Test - Checkout info test passed
