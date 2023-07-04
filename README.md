@@ -13,3 +13,16 @@ An automation project of a E-Commerce based demo website using Selenium, JAVA, M
 
 
 ![Extent Report](https://github.com/shifat124/Sauce_Demo_Website_Automation_Using_Selenium/assets/69003347/5e628e6b-89fa-4322-ac13-ef9ba55f29d2)
+
+
+
+* The recorded video for the project has been given below -
+
+
+
+
+
+
+
+
+
