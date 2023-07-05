@@ -19,6 +19,10 @@ An automation project of a E-Commerce based demo website using Selenium, JAVA, M
 * The recorded video for the project has been given below -
 
 
+[![Swag Labs Automation Video]](https://vimeo.com/842535278?share=copy)
+
+
+
 
 
 
