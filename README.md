@@ -8,7 +8,7 @@ An automation project of a E-Commerce based demo website using Selenium, JAVA, M
 ![Log4j Report](https://github.com/shifat124/Sauce_Demo_Website_Automation_Using_Selenium/assets/69003347/00951af0-4f60-47b8-a4a4-9bcef0241a82)   
 
 
-* The extent report has been given below (using Extent Reports) -
+* The extent report image has been given below (using Extent Reports) -
   
 
 
