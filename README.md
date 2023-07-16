@@ -1,7 +1,7 @@
 # Sauce_Demo_Website_Automation_Using_Selenium
 An automation project of a E-Commerce based demo website using Selenium, JAVA, Maven, TestNG, Log4j, Extent report, Data Driven Test Using Data Provider and many more.
 
-* The log report image has been given below (using Log4j) -
+* The log report image (some part) has been given below (using Log4j) -
   
 
 
